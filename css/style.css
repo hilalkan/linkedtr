@@ -21,6 +21,7 @@ input.searche::placeholder {
 
 .body {
   background-color: #f3f2ef;
+  border-style: 1px;
 }
 
 .menutext {
